@@ -3,7 +3,7 @@ import Image from "next/image";
 export function Footer() {
   return (
     <a
-      href="https://github.com/Image-to-PDF"
+      href="https://github.com/Bani-Adam/Image-to-PDF"
       className="flex flex-row justify-center items-center lg:space-x-4 space-x-2"
     >
       <p className="lg:text-lg text-xs">&copy; ADAM DEV.</p>
