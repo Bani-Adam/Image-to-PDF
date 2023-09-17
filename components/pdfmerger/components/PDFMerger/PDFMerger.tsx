@@ -392,7 +392,7 @@ export default function PDFMerger() {
         {fileList.length > 0 && (
           <div className="flex flex-col justify-start w-full my-8">
             <div className="flex flex-row space-x-4 items-center">
-              <label>File name</label>
+              <label>Nama File</label>
               <input
                 className="border-2 grow rounded-xl px-4 py-2"
                 value={fileName}
