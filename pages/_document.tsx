@@ -10,7 +10,7 @@ export default function Document() {
         <meta name="theme-color" content="#dc2626" />
         <meta
           name="description"
-          content="Ubah gambar ke PDF dan gabung PDF dengan cepat"
+          content="Konversi gambar ke PDF dan gabung PDF dengan cepat"
         />
         <meta
           name="keywords"

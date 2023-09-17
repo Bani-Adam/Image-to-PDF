@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <title>PDF Kita</title>
         <meta
           name="description"
-          content="Ubah gambar ke PDF dan gabung PDF dengan cepat"
+          content="Konversi gambar ke PDF dan gabung PDF dengan cepat"
         />
       </Head>
       <div className="w-screen min-h-screen flex flex-col justify-center items-center flex-0 bg-white dark:bg-black lg:py-12 py-8">
